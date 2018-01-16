@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_bottom.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_bottom.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/input_normal.9.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/input_normal.9.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/input_pressed.9.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/input_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/seekbar_thumb.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/input_disabled.9.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/input_disabled.9.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/btn_play_p.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/btn_play_p.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_white.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_white.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_second.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_second.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/cm_progress_anim.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/cm_progress_anim.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_first.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_first.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_thumb_n.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_thumb_n.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/media_tool_bg1.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/media_tool_bg1.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/seekbar_background.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/seekbar_background.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/selector_btn_play.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/selector_btn_play.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progressbar.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progressbar.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/media_prepare_startup.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/media_prepare_startup.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/btn_pause_p.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/btn_pause_p.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/media_bacground.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/media_bacground.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/button_pressed.9.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/button_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/selector_edit.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/selector_edit.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_blue.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_blue.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/selector_btn.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/selector_btn.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/selector_btn_pause.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/selector_btn_pause.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/button_normal.9.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/button_normal.9.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/mp_music_default.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/mp_music_default.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/btn_pause_n.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/btn_pause_n.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/media_tool_bg2.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/media_tool_bg2.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/media_progress.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/media_progress.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/btn_play_n.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/btn_play_n.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/main_bg.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/main_bg.png"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/drawable/progress_thumb_p.png",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/drawable/progress_thumb_p.png"
+    }
+]

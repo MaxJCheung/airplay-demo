@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/music_player_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/music_player_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/music_loading_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/music_loading_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/media_prepare_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/media_prepare_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/media_toolbar_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/media_toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/music_toolbar_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/music_toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/video_player_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/video_player_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/image_player_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/image_player_layout.xml"
+    },
+    {
+        "merged": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/res/merged/debug/layout/media_loading_layout.xml",
+        "source": "/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/src/main/res/layout/media_loading_layout.xml"
+    }
+]

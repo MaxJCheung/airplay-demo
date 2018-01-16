@@ -1,0 +1,4 @@
+#Tue Jan 16 15:43:40 CST 2018
+base.0=/Users/xue/Documents/dev/demo/AirPlayDemo/xindawn/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
